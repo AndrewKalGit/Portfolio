@@ -213,11 +213,6 @@ button {
     justify-content: center;
 }
 
-.background-color-li {
-    background-color: rgb(137, 188, 255);
-    border-radius: 10px;
-}
-
 #react {
     height: 25px;
     width: 25px;
@@ -276,3 +271,10 @@ button {
     color: rgb(255, 255, 255);
 }
 
+.darkblue {
+    color: rgb(57, 116, 168);
+}
+
+.blue {
+    color: cornflowerblue;
+}
